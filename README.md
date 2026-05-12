@@ -158,37 +158,6 @@ Desktop logistics management application in Java Swing with SQLite via JDBC. Han
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jairajrenjith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairajrenjith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jairajrenjith&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jairajrenjith)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jairajrenjith)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jairajrenjith)
-
-100+ problems solved in Python and C across arrays, graphs, dynamic programming, and recursion.
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jairajrenjith&color=00d9ff&style=flat-square&label=Profile+Views)
