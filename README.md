@@ -68,12 +68,3 @@ jairaj = {
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
-
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jairajrenjith&color=00d9ff&style=flat-square&label=Profile+Views)
-
-*"Building systems that think, learn, and scale."*
-
-</div>
