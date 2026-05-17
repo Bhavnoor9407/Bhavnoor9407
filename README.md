@@ -16,11 +16,11 @@
 ## `whoami`
 
 ```python
-jairaj = {
+Portfolio = {
     "name"      : "Bhavnoor Singh",
     "location"  : "Mohali, Punjab, India",
     "degree"    : "B.Tech CSE Ai/ML@ Amity University Punjab (AUP)",
-    "focus"     : ["AI / Multi-Agent Systems", "Full-Stack Web Dev", "DSA"],
+    "focus"     : ["AI / Multi-Agent Systems", "Forex Trader", "DSA"],
     "currently" : "Building intelligent systems & competing in hackathons",
     "website"   : "https://bhavnoor.vercel.app/",
 }
